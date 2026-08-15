@@ -1,0 +1,67 @@
+ h1{
+     font-size: 64px;
+    color:rgb(4, 4, 114);
+    text-align: center;
+        }
+
+ p{
+    color: rgb(104, 146, 182);
+    text-align: justify;
+    font-size: 32px;
+         }
+#p2{
+    color: rgb(4, 4, 114);
+    text-align: justify;
+    font-size: 32px;
+}
+body{
+    background-image: url('https://static.vecteezy.com/ti/fotos-gratis/p2/14903353-fundo-gradiente-azul-e-branco-abstrato-ilustracao-abstrata-com-design-de-desfoque-de-gradiente-gradiente-colorido-gratis-foto.jpg');
+    background-size: full;
+}
+figure{
+    
+    width: 100px;
+    color: rgb(4, 4, 114);
+    font-size: 15px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(71, 109, 142);
+}
+img{
+    width: 200px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 10px;
+    border: 5px solid rgb(4, 4, 114);
+}
+h2{
+    color: rgb(4, 4, 114);
+    font-size: 40px;
+    text-align: center;
+}
+ol{
+    color: rgb(4, 4, 114);
+    font-size: 25px;
+    margin-left: 50px;
+}
+ul{
+    color: rgb(71, 109, 142);
+    font-size: 25px;
+    margin-left: 50px;
+}
+dl{
+    color: rgb(4, 4, 114);
+    font-size: 25px;
+    margin-left: 50px;
+}
+dt{
+    color: rgb(45, 59, 134);
+    font-size: 30px;
+    
+}
+a{
+    color: rgb(4, 4, 114);
+    font-size: 30px;
+    margin-left: 50px;
+}
