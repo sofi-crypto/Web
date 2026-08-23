@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-image: url('https://img.magnific.com/fotos-gratis/plano-de-fundo-texturizado-de-concreto-vinheta-rosa-pastel_53876-129734.jpg?semt=ais_hybrid&w=740&q=80');
+    background-size: cover;
+}
+h1{
+    color: #f17386;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Monsieur La Doulaise", cursive;
+}
+h2{
+    color: #f39eaa;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Monsieur La Doulaise", cursive;
+}
+#p1{
+    color: rgb(22, 88, 35);
+    text-align: center;
+    font-size: 30px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+dt{
+    color: #f17386;
+    text-align: center;
+    font-size: 35px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+ol{
+    color: rgb(22, 88, 35);
+    text-align: center;
+    font-size: 25px;
+    list-style-position: inside;
+    font-family: "Roboto Condensed", sans-serif;
+    
+}
+a{
+    color: #af071e;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 25px;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+#p2{
+    color: rgb(22, 88, 35);
+    text-align: center;
+    font-size: 30px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+ul{
+    color: rgb(22, 88, 35);
+    text-align: center;
+    font-size: 20px;
+    list-style-position: inside;
+    list-style-type: square;
+    font-family: "Roboto Condensed", sans-serif;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    border: 5px solid #af071e;
+}
+hr{
+    background-color: #af071e;
+    border: none;
+    height: 3px;
+}
