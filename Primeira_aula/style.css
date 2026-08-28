@@ -12,6 +12,7 @@
     text-align: justify;
     font-size: 25px;
     font-family: "Inter", sans-serif;
+    margin-top: 20px;
          }
 #p2{
     color: rgb(4, 4, 114);
@@ -60,7 +61,16 @@ h2{
      font-family:'monsieur la doulaise', cursive;
 }
 a{
-    font-family:'monsieur la doulaise', cursive;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+     font-family:'monsieur la doulaise', cursive;
+     font-size: 35px;
+     color: rgb(4, 4, 114);
+     text-decoration: underline rgb(71, 109, 142);
+     gap: 30px;
+     margin-top: 20px;
+     margin-bottom: 20px;
 }
 ol{
     color: rgb(4, 4, 114);
@@ -86,12 +96,19 @@ dt{
      font-family:'monsieur la doulaise', cursive;
     
 }
-a{
-    color: rgb(4, 4, 114);
-    font-size: 30px;
-    justify-content: center;
-    align-items: center;
+
+hr{
+    background-color: rgb(4, 4, 114); 
+    border: none;
+    height: 3px;
+}
+.ancora{
     display: flex;
+    gap: 30px;
+    justify-content: center;
+    color: rgb(4, 4, 114);
+    font-size: 40px;
     text-decoration-color: rgb(71, 109, 142);
     margin-bottom: 20px;
+    font-family:'monsieur la doulaise', cursive;
 }
